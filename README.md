@@ -24,4 +24,10 @@
   - Volatility forecasting
   - Value at Risk with dynamic volatility
 
-To be continued...
+- **multivariate_time_series.ipynb**
+  - VAR models and Granger's causality test
+  - Impulse response function computation
+  - Cointegration analysis (Engle-Granger's method)
+  - Pairs trading strategy: hedge ratio estimation, spread deviation and trading signals
+  - Paris trading strategy: backtesting framework and performance metrics
+  - Principal component analysis
